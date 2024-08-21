@@ -661,7 +661,7 @@ body {
   }
 
   .title .hat {
-    display: none;
+    width: 90px;
   }
   .right .box__account {
     margin-top: 80px;
@@ -680,7 +680,7 @@ body {
     margin-left: unset;
   }
   .title .hat {
-    display: none;
+    width: 90px;
   }
   .date__of__birth {
     margin-top: 30px;
